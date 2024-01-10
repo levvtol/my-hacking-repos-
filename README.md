@@ -6,11 +6,8 @@
 
 | Date       | Site name  | paper name        | Note                                     |
 | ---------- | :--------: | :---------------: | :--------------------------------------: |
-| 10.01.2024 | TryHackMe  | printer_hacking   | This code doesn't worked on my printer.  |
+| 10.01.2024 | TryHackMe  | [printer hacking](https://github.com/levvtol/my-hacking-repos-/printer_hacking.pdf)   | This code doesn't worked on my printer.  |
 
 
-| Date       | Site name  | paper name        | Note                             |
-| ---------- | :--------: | :---------------: | :---------------------------: |
-| 10.01.2024 | TryHackMe  | printer_hacking   | This code doesn't worked on my printer.  |
 
 
